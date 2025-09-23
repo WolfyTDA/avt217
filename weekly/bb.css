@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body {
+	font-family: 'Hoefler Text', 'Liberation Serif', 'Times New Roman', 'serif';
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h2 { 
+	font-family: "warbler-banner", sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+h3 {
+	font-family: "private-sans", sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+h4 {
+	font-family: "private-sans", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#wrapper {
+	margin-left: 5%;
+	background-color:aqua}
+h1 {
+	font-family: am-novecento, sans-serif;
+}
+
+a:link {
+	color:darkblue;
+}
+a:visited{
+	color: darkmagenta
+}
+a:hover {
+	color: chartreuse
+}
+a:active {
+	color:burlywood
+}
+
+.weekly{
+	width:45%;
+	float:left;
+	margin: 0 5%;
+}
+
+#project {
+	width:45%;
+	float:left;
+}
