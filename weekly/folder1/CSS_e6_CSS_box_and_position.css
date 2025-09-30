@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+@media (max-width: 1006px){
+}
+.container {
+	width:80%;
+		margin: 0 auto;
+}
+
+img{
+	width:500px;
+	height: auto;
+}
+
+.box1{
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+}
+
+.box2{
+	position:fixed;
+	top:2px;
+	left:16px;
+	background-color:aquamarine;
+	padding: 10px 20px;
+}
+
+.insidebox2{
+	background-color: burlywood;
+}
+
+.box3{
+	position: sticky;
+  	top: 50;
+  	background-color: orange;
+	background-color: cornflowerblue;
+}
+
+.box4{
+	float: right;
+	background-color:orchid;
+	padding: 2px;
+}
+
+.box5{
+  position: relative;
+  left: 620px;
+  border: 30px solid;
+}
+
+.box6{
+  position: static;
+}
