@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+.box{
+	width:207px;
+	height: 382px;
+	float: left;
+	margin-left: 21px;
+	margin-bottom: 15px;
+	background-color: #CEB2A1;
+}
+
+
+
+#line1{
+	width: 908px;
+	height: 67px;
+	display: flex;
+	background-color: #D57878;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	flex-wrap: wrap;
+}
+
+#line2{
+	width: 908px;
+	height: 31px;
+	display: flex;
+	background-color: #B88B6A;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	flex-wrap: wrap;
+}
+
+#line3{
+	width: 908px;
+	height: 55px;
+	display: flex;
+	background-color: #743939;
+	margin-left: 15px;
+	flex-wrap: wrap;
+}
