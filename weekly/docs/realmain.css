@@ -3,7 +3,7 @@
 
   body {
     text-align: center;
-    background:url("weekly/docs/imagebirthday.jpg")no-repeat center center fixed;
+    background:url("https://raw.githubusercontent.com/WolfyTDA/avt217/refs/heads/main/weekly/docs/imagebirthday.jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -69,4 +69,5 @@
   
     }
  /* don't forget to close the styles for mobile/
+
 
