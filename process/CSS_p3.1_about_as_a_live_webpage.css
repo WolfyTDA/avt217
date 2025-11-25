@@ -12,6 +12,21 @@ font-size: 128px;
 	  color: #FFFFFF;
 }
 
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: gray;
+  background-color: transparent;
+}
+
 nav{
 	width: 1440px;
 	height: 50px;
@@ -104,4 +119,5 @@ footer-article{
 	font-weight: 400;
 	font-style: normal;
 	font-size: 32px;
+
 }
