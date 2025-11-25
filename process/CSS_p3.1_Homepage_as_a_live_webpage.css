@@ -26,6 +26,21 @@ nav{
 	  word-spacing: 10px;
 	}
 
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: gray;
+  background-color: transparent;
+}
+
 header2 {
 font-family: "Ms Madi", cursive;
 font-weight: 400;
@@ -119,3 +134,4 @@ footer-article{
 	font-style: normal;
 	font-size: 32px;
 }
+
